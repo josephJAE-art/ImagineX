@@ -1,0 +1,9 @@
+{
+  "name": "Imagine X",
+  "description": "A limitless multimodal creative studio that transforms seeds of thought into rich stories, stunning visuals, and narrated experiences using Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
